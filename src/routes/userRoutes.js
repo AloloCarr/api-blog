@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-//Para llamar a los controllers:)
+//Para llamar al controller 
 const userController = require('../controllers/userController');
 
 //RUTAS USUARIOS
